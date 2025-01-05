@@ -1,6 +1,6 @@
-# SEQ4EPI
+### SEQ4EPI
 
-# ClusterFinder Pipeline
+### ClusterFinder Pipeline
 This repository contains a comprehensive pipeline for sequence alignment, distance calculation, clustering, and generating final tables of results. The pipeline integrates multiple tools and scripts written in Python, R, and Shell scripts.
 
 # Table of Contents
